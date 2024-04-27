@@ -14,7 +14,7 @@ No sistema é possivel :
 - Cadastrar, atualizar, deletar e Pesquisar
 - Verificar solicitações de prestações de serviços
 - Fazer envio de Emails para os clientes.
-- Fazer o envio em massa de mensagens para os clientes
+
 
 
 ## Em desenvolvimento 
